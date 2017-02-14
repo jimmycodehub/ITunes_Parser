@@ -1,0 +1,23 @@
+
+{{trackList}}
+
+
+
+<!--{{tracks}}-->
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>name</th>
+        <th>artist</th>
+        <th>genre</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="t in tracks">
+        <td>{{t.track.song}}</td>
+        <td>{{t.track.artist}}</td>
+        <td>{{t.track.genre}}</td>
+    </tr>
+    </tbody>
+</table>

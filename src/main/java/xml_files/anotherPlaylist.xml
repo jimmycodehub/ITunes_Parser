@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-12-03T19:37:50Z</date>
+	<key>Application Version</key><string>12.5.3.17</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/admin/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EDF8407E7113DB7B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2127</key>
+		<dict>
+			<key>Track ID</key><integer>2127</integer>
+			<key>Name</key><string>Oh Bondage Up Yours!</string>
+			<key>Artist</key><string>X-Ray Spex</string>
+			<key>Album Artist</key><string>X-Ray Spex</string>
+			<key>Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7155017</integer>
+			<key>Total Time</key><integer>183121</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-12-03T19:29:15Z</date>
+			<key>Date Added</key><date>2016-12-03T19:29:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Sort Artist</key><string>X-Ray Spex</string>
+			<key>Sort Name</key><string>Oh Bondage Up Yours!</string>
+			<key>Persistent ID</key><string>3ABA42212420DEF5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2154</key>
+		<dict>
+			<key>Track ID</key><integer>2154</integer>
+			<key>Name</key><string>Warrior In Woolworths</string>
+			<key>Artist</key><string>X-Ray Spex</string>
+			<key>Album Artist</key><string>X-Ray Spex</string>
+			<key>Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6689584</integer>
+			<key>Total Time</key><integer>170794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-12-03T19:29:39Z</date>
+			<key>Date Added</key><date>2016-12-03T19:29:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Sort Artist</key><string>X-Ray Spex</string>
+			<key>Sort Name</key><string>Warrior In Woolworths</string>
+			<key>Persistent ID</key><string>1923A3CBA331EC97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2178</key>
+		<dict>
+			<key>Track ID</key><integer>2178</integer>
+			<key>Name</key><string>The Day The World Turned Day-Glo</string>
+			<key>Artist</key><string>X-Ray Spex</string>
+			<key>Album Artist</key><string>X-Ray Spex</string>
+			<key>Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6801128</integer>
+			<key>Total Time</key><integer>184635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-12-03T19:29:56Z</date>
+			<key>Date Added</key><date>2016-12-03T19:29:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Live @ The Roundhouse London 2008</string>
+			<key>Sort Artist</key><string>X-Ray Spex</string>
+			<key>Sort Name</key><string>Day The World Turned Day-Glo</string>
+			<key>Persistent ID</key><string>4A08C5D29BE10EE6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2194</key>
+		<dict>
+			<key>Track ID</key><integer>2194</integer>
+			<key>Name</key><string>London Calling (2012 Mix)</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer &#38; Mick Jones</string>
+			<key>Album</key><string>Hits Back</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7785752</integer>
+			<key>Total Time</key><integer>199476</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T19:30:26Z</date>
+			<key>Date Added</key><date>2016-12-03T19:30:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Back</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>London Calling (2012 Mix)</string>
+			<key>Persistent ID</key><string>7DDC2F3F30B7ADB0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2207</key>
+		<dict>
+			<key>Track ID</key><integer>2207</integer>
+			<key>Name</key><string>The Guns of Brixton</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Paul Simonon</string>
+			<key>Album</key><string>Hits Back</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7766091</integer>
+			<key>Total Time</key><integer>189934</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T19:30:30Z</date>
+			<key>Date Added</key><date>2016-12-03T19:30:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Back</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>Guns of Brixton</string>
+			<key>Persistent ID</key><string>EE0F8F9323D15650</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2218</key>
+		<dict>
+			<key>Track ID</key><integer>2218</integer>
+			<key>Name</key><string>Garageland</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer &#38; Michael Jones</string>
+			<key>Album</key><string>Hits Back</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7651916</integer>
+			<key>Total Time</key><integer>194547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T19:30:44Z</date>
+			<key>Date Added</key><date>2016-12-03T19:30:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Back</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>Garageland</string>
+			<key>Persistent ID</key><string>846585EADF4BBF17</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2234</key>
+		<dict>
+			<key>Track ID</key><integer>2234</integer>
+			<key>Name</key><string>English Civil War</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Traditional, Joe Strummer &#38; Mick Jones</string>
+			<key>Album</key><string>Hits Back</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5888624</integer>
+			<key>Total Time</key><integer>155320</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T19:30:51Z</date>
+			<key>Date Added</key><date>2016-12-03T19:30:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Back</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>English Civil War</string>
+			<key>Persistent ID</key><string>8CE8FD6F2A5FF49C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2245</key>
+		<dict>
+			<key>Track ID</key><integer>2245</integer>
+			<key>Name</key><string>White Riot</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer &#38; Michael Jones</string>
+			<key>Album</key><string>Hits Back</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5327708</integer>
+			<key>Total Time</key><integer>133360</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T19:30:57Z</date>
+			<key>Date Added</key><date>2016-12-03T19:30:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Back</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>White Riot</string>
+			<key>Persistent ID</key><string>0575DC5A8727E00E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2266</key>
+		<dict>
+			<key>Track ID</key><integer>2266</integer>
+			<key>Name</key><string>Enter Sandman</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Album Artist</key><string>Metallica</string>
+			<key>Composer</key><string>Kirk Hammett, Lars Ulrich &#38; James Hetfield</string>
+			<key>Album</key><string>Metallica</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11563276</integer>
+			<key>Total Time</key><integer>331560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:31:53Z</date>
+			<key>Date Added</key><date>2016-12-03T19:31:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metallica</string>
+			<key>Sort Artist</key><string>Metallica</string>
+			<key>Sort Name</key><string>Enter Sandman</string>
+			<key>Persistent ID</key><string>42FED6C820F9CC1C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2284</key>
+		<dict>
+			<key>Track ID</key><integer>2284</integer>
+			<key>Name</key><string>Nothing Else Matters</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Album Artist</key><string>Metallica</string>
+			<key>Composer</key><string>James Hetfield &#38; Lars Ulrich</string>
+			<key>Album</key><string>Metallica</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13312716</integer>
+			<key>Total Time</key><integer>388733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:32:01Z</date>
+			<key>Date Added</key><date>2016-12-03T19:32:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metallica</string>
+			<key>Sort Artist</key><string>Metallica</string>
+			<key>Sort Name</key><string>Nothing Else Matters</string>
+			<key>Persistent ID</key><string>E9A35083547407FB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2325</key>
+		<dict>
+			<key>Track ID</key><integer>2325</integer>
+			<key>Name</key><string>Smells Like Teen Spirit</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Kurt Cobain, Dave Grohl &#38; Krist Novoselic</string>
+			<key>Album</key><string>Nevermind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11419366</integer>
+			<key>Total Time</key><integer>301096</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:32:35Z</date>
+			<key>Date Added</key><date>2016-12-03T19:32:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nevermind</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Sort Name</key><string>Smells Like Teen Spirit</string>
+			<key>Persistent ID</key><string>58504529B9365480</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2338</key>
+		<dict>
+			<key>Track ID</key><integer>2338</integer>
+			<key>Name</key><string>Lithium</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Kurt Cobain</string>
+			<key>Album</key><string>Nevermind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9383000</integer>
+			<key>Total Time</key><integer>257048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:32:41Z</date>
+			<key>Date Added</key><date>2016-12-03T19:32:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nevermind</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Sort Name</key><string>Lithium</string>
+			<key>Persistent ID</key><string>A43526F77A5331E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2354</key>
+		<dict>
+			<key>Track ID</key><integer>2354</integer>
+			<key>Name</key><string>Something In the Way</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Kurt Cobain, Dave Grohl &#38; Krist Novoselic</string>
+			<key>Album</key><string>Nevermind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8155990</integer>
+			<key>Total Time</key><integer>232183</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:32:47Z</date>
+			<key>Date Added</key><date>2016-12-03T19:32:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nevermind</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Sort Name</key><string>Something In the Way</string>
+			<key>Persistent ID</key><string>3D0CFBEC3F764FE5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2372</key>
+		<dict>
+			<key>Track ID</key><integer>2372</integer>
+			<key>Name</key><string>Territorial Pissings</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Kurt Cobain, Krist Novoselic, Dave Grohl &#38; Chet Powers</string>
+			<key>Album</key><string>Nevermind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5438951</integer>
+			<key>Total Time</key><integer>142938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2016-12-03T19:32:53Z</date>
+			<key>Date Added</key><date>2016-12-03T19:32:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nevermind</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Sort Name</key><string>Territorial Pissings</string>
+			<key>Persistent ID</key><string>518D76F02D79D53C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2556</key>
+		<dict>
+			<key>Track ID</key><integer>2556</integer>
+			<key>Name</key><string>Awake</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1850312</integer>
+			<key>Total Time</key><integer>35773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Awake</string>
+			<key>Persistent ID</key><string>35464C2CAF3CC00D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2563</key>
+		<dict>
+			<key>Track ID</key><integer>2563</integer>
+			<key>Name</key><string>Ghost Ship</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6741064</integer>
+			<key>Total Time</key><integer>170627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Ghost Ship</string>
+			<key>Persistent ID</key><string>0BFDD13890967072</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2568</key>
+		<dict>
+			<key>Track ID</key><integer>2568</integer>
+			<key>Name</key><string>Dawn's Highway</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3246343</integer>
+			<key>Total Time</key><integer>81827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Dawn's Highway</string>
+			<key>Persistent ID</key><string>DBA6ECC951293B60</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2573</key>
+		<dict>
+			<key>Track ID</key><integer>2573</integer>
+			<key>Name</key><string>Newborn Awakening</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5558531</integer>
+			<key>Total Time</key><integer>146027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Newborn Awakening</string>
+			<key>Persistent ID</key><string>900AAAF8EF343EAB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2578</key>
+		<dict>
+			<key>Track ID</key><integer>2578</integer>
+			<key>Name</key><string>To Come of Age</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2662122</integer>
+			<key>Total Time</key><integer>61640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>To Come of Age</string>
+			<key>Persistent ID</key><string>05F3B78845B312FB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2583</key>
+		<dict>
+			<key>Track ID</key><integer>2583</integer>
+			<key>Name</key><string>Black Polished Chrome</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2997903</integer>
+			<key>Total Time</key><integer>67867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Black Polished Chrome</string>
+			<key>Persistent ID</key><string>88DC7D25712A3565</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2588</key>
+		<dict>
+			<key>Track ID</key><integer>2588</integer>
+			<key>Name</key><string>Latino Chrome</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5453438</integer>
+			<key>Total Time</key><integer>134520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Latino Chrome</string>
+			<key>Persistent ID</key><string>62AD59858D0949FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2593</key>
+		<dict>
+			<key>Track ID</key><integer>2593</integer>
+			<key>Name</key><string>Angels and Sailors</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6081666</integer>
+			<key>Total Time</key><integer>166733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Angels and Sailors</string>
+			<key>Persistent ID</key><string>FA0EA00C114E60E6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2598</key>
+		<dict>
+			<key>Track ID</key><integer>2598</integer>
+			<key>Name</key><string>Stoned Immaculate</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3984215</integer>
+			<key>Total Time</key><integer>93800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Stoned Immaculate</string>
+			<key>Persistent ID</key><string>6235E4E23E78FC95</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2603</key>
+		<dict>
+			<key>Track ID</key><integer>2603</integer>
+			<key>Name</key><string>The Movie</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3849486</integer>
+			<key>Total Time</key><integer>95933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Movie</string>
+			<key>Persistent ID</key><string>CEE90CA28104F62F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2608</key>
+		<dict>
+			<key>Track ID</key><integer>2608</integer>
+			<key>Name</key><string>Curses, Invocations</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4547280</integer>
+			<key>Total Time</key><integer>117693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Curses, Invocations</string>
+			<key>Persistent ID</key><string>FCD5EB61EDE09424</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2613</key>
+		<dict>
+			<key>Track ID</key><integer>2613</integer>
+			<key>Name</key><string>American Night</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1515561</integer>
+			<key>Total Time</key><integer>28400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>American Night</string>
+			<key>Persistent ID</key><string>32D5886B5D8D1109</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2618</key>
+		<dict>
+			<key>Track ID</key><integer>2618</integer>
+			<key>Name</key><string>Roadhouse Blues</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Composer</key><string>The Doors, John Densmore, Jim Morrison, John Paul Densmore, Raymond D. Manzarek, Raymond Manzarek &#38; Robert A. Krieger</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12852362</integer>
+			<key>Total Time</key><integer>353027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Sort Composer</key><string>Doors, John Densmore, Jim Morrison, John Paul Densmore, Raymond D. Manzarek, Raymond Manzarek &#38; Robert A. Krieger</string>
+			<key>Sort Name</key><string>Roadhouse Blues</string>
+			<key>Persistent ID</key><string>8E104EDFD970696C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2623</key>
+		<dict>
+			<key>Track ID</key><integer>2623</integer>
+			<key>Name</key><string>The World On Fire</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2882723</integer>
+			<key>Total Time</key><integer>66867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>World On Fire</string>
+			<key>Persistent ID</key><string>4DC46F19AF80D275</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2628</key>
+		<dict>
+			<key>Track ID</key><integer>2628</integer>
+			<key>Name</key><string>Lament</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5097474</integer>
+			<key>Total Time</key><integer>138560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Lament</string>
+			<key>Persistent ID</key><string>74CB8224F66B576F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2633</key>
+		<dict>
+			<key>Track ID</key><integer>2633</integer>
+			<key>Name</key><string>The Hitchhiker</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5320358</integer>
+			<key>Total Time</key><integer>135920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Hitchhiker</string>
+			<key>Persistent ID</key><string>B734839EB3DECEB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2638</key>
+		<dict>
+			<key>Track ID</key><integer>2638</integer>
+			<key>Name</key><string>An American Prayer</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7102807</integer>
+			<key>Total Time</key><integer>184440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>American Prayer</string>
+			<key>Persistent ID</key><string>DE280794553CDEA3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2643</key>
+		<dict>
+			<key>Track ID</key><integer>2643</integer>
+			<key>Name</key><string>Hour for Magic</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3210064</integer>
+			<key>Total Time</key><integer>77867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Hour for Magic</string>
+			<key>Persistent ID</key><string>1DC43F6AE3C72B12</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2648</key>
+		<dict>
+			<key>Track ID</key><integer>2648</integer>
+			<key>Name</key><string>Freedom Exists</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1247917</integer>
+			<key>Total Time</key><integer>20427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Freedom Exists</string>
+			<key>Persistent ID</key><string>5BD01046D1A9D488</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2653</key>
+		<dict>
+			<key>Track ID</key><integer>2653</integer>
+			<key>Name</key><string>A Feast of Friends</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5092536</integer>
+			<key>Total Time</key><integer>130573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Feast of Friends</string>
+			<key>Persistent ID</key><string>7735994E2EE72D63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2658</key>
+		<dict>
+			<key>Track ID</key><integer>2658</integer>
+			<key>Name</key><string>Babylon Fading</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3930343</integer>
+			<key>Total Time</key><integer>100120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Babylon Fading</string>
+			<key>Persistent ID</key><string>6EA08D0EF82A9ED2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2663</key>
+		<dict>
+			<key>Track ID</key><integer>2663</integer>
+			<key>Name</key><string>Bird of Prey</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2804224</integer>
+			<key>Total Time</key><integer>64067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Bird of Prey</string>
+			<key>Persistent ID</key><string>607C4A5DD472E8C7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2668</key>
+		<dict>
+			<key>Track ID</key><integer>2668</integer>
+			<key>Name</key><string>The Ghost Song</string>
+			<key>Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Album</key><string>An American Prayer</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11014077</integer>
+			<key>Total Time</key><integer>315920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-03T19:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T19:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Prayer</string>
+			<key>Sort Artist</key><string>Jim Morrison &#38; The Doors</string>
+			<key>Sort Name</key><string>Ghost Song</string>
+			<key>Persistent ID</key><string>9C87CC117F1C964B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>anotherPlaylist</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>2134</integer>
+			<key>Playlist Persistent ID</key><string>D7D1E168DAB158C3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2648</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2668</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

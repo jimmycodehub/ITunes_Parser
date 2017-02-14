@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - music@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="music">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="construct_vision"/>
+    <schema id="3" name="dt354"/>
+    <schema id="4" name="dt354rel"/>
+    <schema id="5" name="information_schema"/>
+    <schema id="6" name="mysql"/>
+    <schema id="7" name="performance_schema"/>
+    <schema id="8" name="sys"/>
+  </database-model>
+</dataSource>
